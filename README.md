@@ -1,4 +1,5 @@
 # MultipleFeature 
+# 多特征融合的Camshift目标跟踪算法
 
 1. 多特征融合做Camshift跟踪
 2. 融合特征包括：颜色、边缘、纹理
